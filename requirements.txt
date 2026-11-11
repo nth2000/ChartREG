@@ -1,0 +1,4 @@
+numpy>=1.24
+matplotlib>=3.8
+Pillow>=9.5
+squarify>=0.4.4

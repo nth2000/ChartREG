@@ -6,10 +6,6 @@
 
 ChartREG++ studies grounding natural-language expressions to chart elements using points, bounding boxes, and segmentation masks. It also introduces an LLM-free pipeline that derives instance masks from executable Matplotlib code and its Artist hierarchy.
 
-## Release Checklist
-
-- [ ] **Benchmark:** chart images, referring expressions, and grounding annotations.
-- [x] **Mask synthesis pipeline:** extraction code, rendering utilities, examples, and regression tests.
 
 ## Benchmark
 
